@@ -7,7 +7,7 @@
 
 ![Licencia CC](./images/Licencia_CC_peque.png)
 
-## [https://bit.ly/RobSTEAM](https://bit.ly/RobSTEAM)
+## [https://github.com/javacasm/RoboticaSTEAMUbeda](https://github.com/javacasm/RoboticaSTEAMUbeda)
 
 Curso Semipresencial: 3 sesiones online de 3h + 3 Sesionwa presenaciales + trabajo personal
 

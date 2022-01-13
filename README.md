@@ -7,7 +7,9 @@
 
 ![Licencia CC](./images/Licencia_CC_peque.png)
 
-Curso Semipresencial: 5 sesiones online de 2h + trabajo personal 15h + Sesión final de exposición
+## [https://bit.ly/RobSTEAM](https://bit.ly/RobSTEAM)
+
+Curso Semipresencial: 3 sesiones online de 3h + 3 Sesionwa presenaciales + trabajo personal
 
 ## Objetivos
 
@@ -21,11 +23,14 @@ Curso Semipresencial: 5 sesiones online de 2h + trabajo personal 15h + Sesión f
 
 El objetivo del presente curso es el utilizar estas herramientas para realizar diferentes proyectos educativos, por lo que su carácter es eminentemente práctico.
 
-1. Lenguajes de programación: Programando con Bloques
-1. Introducción a la robótica
-1. Programación de Arduino
-1. Impresión 3D
-1. Introducción al Diseño 3D
+1. [Programación en la educación](./scratch/1.0.ProgramacionEnEducacion.md)
+1. [Programando con bloques: Scratch](./scratch/3.0.Scratch3.0.md)
+1. [El pensamiento computacional y los juegos](./scratch/9.0.PC_Unplugged.md)
+1. [Robótica en educación](./scratch/8.1.0.RoboticaEducacion.md)
+1. [Robótica con micro:bit](./microbit/0.Introduccion.md)
+1. [Programación de Arduino](./arduino/arduinoblocks.md)
+1. [Uso de impresoras 3D](./3D/README.md)
+1. [Introducción al diseño 3D](./3D/9.0.HerramientasDiseño3D.md)
 
 
 ## Descripción
@@ -47,7 +52,7 @@ El curso cuenta con una parte no presencial que se justificará mediante el dis
 
 ## Duración
 
-7 sesiones presenciales de 3 horas: 25 horas
+7 sesiones semipresenciales de 3 horas: 25 horas
 
 * 2 sesiones Programación
 * 3 sesiones robótica
@@ -64,3 +69,32 @@ Fecha	|Horario
 10/2/2022|17:00-20:00
 17/2/2021|17:00-20:00
 24/2/2021|17:00-20:00
+
+
+## Herramientas
+
+[Pensamiento computacional desconectado](https://csunplugged.org/es/)
+
+![](./images/codyRobycompleto-1-400x273.png)
+
+[Escornabot](https://escornabot.com/es/index)
+
+![](./images/escornabot.png)
+
+
+[micro:bit](http://microbit.org/)
+
+![](./images/Incio_bloques.png)
+
+[Scratch](https://scratch.mit.edu/)
+
+![](./images/RecorridoAndaluciaMapa.png)
+
+
+[Tinkercad](https://tinkercad.com)
+
+![](./images/tinkercad.png)
+
+### Recursos
+
+[Propuesta con objetivos mínimos para cada nivel educativo de Intef](http://code.intef.es/wp-content/uploads/2018/10/Ponencia-sobre-Pensamiento-Computacional.-Informe-Final.pdf#page=65)

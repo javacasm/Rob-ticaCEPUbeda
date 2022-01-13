@@ -77,19 +77,17 @@ Fecha	|Horario
 
 ![](./images/codyRobycompleto-1-400x273.png)
 
-[Escornabot](https://escornabot.com/es/index)
+[Scratch](https://scratch.mit.edu/)
 
-![](./images/escornabot.png)
-
+![](./scratch/images/BloquesSincronizacionTiempos.png)
 
 [micro:bit](http://microbit.org/)
 
 ![](./images/Incio_bloques.png)
 
-[Scratch](https://scratch.mit.edu/)
+[Arduino](arduinoblocks.com)
 
-![](./images/RecorridoAndaluciaMapa.png)
-
+![](./arduino/images/DHT11ReleUno_bb.png)
 
 [Tinkercad](https://tinkercad.com)
 

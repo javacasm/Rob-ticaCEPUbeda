@@ -9,7 +9,7 @@
 
 ## [https://github.com/javacasm/RoboticaSTEAMUbeda](https://github.com/javacasm/RoboticaSTEAMUbeda)
 
-Curso Semipresencial: 3 sesiones online de 3h + 3 Sesionwa presenaciales + trabajo personal
+Curso Semipresencial: 3 sesiones online de 3h + 3 Sesiones presenciales + trabajo personal
 
 ## Objetivos
 

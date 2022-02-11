@@ -24,69 +24,44 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 * Analizar los distintos programas de laminado del mercado y sus configuraciones.
 * Obtener piezas en distintos materiales para analizar tolerancias, retracciones y calibrado.
 
-## [Contenidos](./0.0.0.Indice.md)
 
 ## 0. [Introducción a la impresión 3D](./0.0.Introduccion3D.md)
 * [Origen](./0.1.Historia.md), desarrollo y actualidad
 * [Aplicaciones](./0.2.Aplicaciones.md)
-* [Tecnologías de impresión](./0.3Tecnologias3D.md)
-* [Qué Comprar](./0.4.ComprarImpresora3D.md)
+* [Tecnologías de impresión](./0.3.Tecnologias3D.md)
+* [Qué Comprar](./0.4.ComprarImpresora3d.md)
 
 ## 1. [Proceso de impresión](./1.0.ProcesoImpresion3D.md)
 * [Guía Rápida](./0.5.GuiaRapida.md)
 
-## 2. Modelos
+## 2. Modelos y materiales
 * [Repositorios de diseños](./2.0.Repositorios.md)
+* [Materiales y sus parámetros](./2.5.Filamentos.md)
     
 ## 3. Programas para imprimir
 * [Slicers](./3.0.Slicers.md)
 * [Cura](./3.1.Cura.md)
-* [PrusaSlicer](./3.2.Prusaslicer.md)
-* [Arregladores de piezas](./3.4.ReparacionPiezas.md)
+* [PrusaSlicer](./3.2.PrusaSlicer.md)
+* [Arregladores de piezas](./3.4.ReparacionPiezas_v2.m)
 
   
-## 4. Materiales
-* [Materiales y sus parámetros](./4.0.Filamentos.md)
-* Tipos
-* Usos
-* Calidades y precios
-
-## 5. Montaje y puesta a punto
-* [Estructura de una impresora](./5.0.EstructuraImpresora3D.md)
-* [Tipos de impresoras](5.1.0.Impresoras3D.md) y [geometrías](./5.1.1.Geometrías.md)
-* [Modelos de impresoras 3D](./5.1.2.Modelos.md)
-* [Montaje](./5.2.Montaje.md)
+## 4. Montaje y puesta a punto
+* [Estructura de una impresora](./4.0.0.EstructuraImpresora3D.md) y [geometrías](./4.1.0.Geometrias.md)
 * Calibración
 * Pruebas
 
-## 6. [Uso](./6.0.Uso.md)
+## 5. [Uso](./5.0.0.UsoImpresoras3D.md)
 * Menus
 * AutoHome y calibración
 * Impresión
 * Cambio filamento
-* [Proyectos 3D](./6.3.Proyectos3D.md)
-* [Matenimiento](./6.4.Mantenimiento.md)
-    * Limpieza
-    * Engrasado
-    * Ajustes
-    * Tensión de las correas
-* [Mejoras de calidad](./6.5.MejoraCalidad.md)
-* [Escaneado 3D](./6.7.Escaneado3D.md)
-* Problemas más frecuentes
-    * Atascos
-    * Falta de calibración
-    * Falta de tensión de las correas
-    * Rotura o falta de ajuste de driver de motores
-    * [Fallos de impresión](./6.8.FallosImpresion.md)
+* [Matenimiento](./7.4.0.Mantenimiento.md)
 
-## 7. Diseño 3D: 
-* [Programas de diseño](./7.0.HerramientasDiseño3D.md)
-* [Diseñando con Tinkercad](./7.2.Tinkercad.md)
-* [Freecad](./7.3.Freecad.md)
-* [Blender](./7.4.Blender.md)
-* [BlockScad](./7.5.BlockScad.md)
-* [SketchUp](./7.6.SketchUp.md)
-* [2D to 3D](7.9.2d-To-3D.md)
+
+## 6. Diseño 3D: 
+* [Programas de diseño](./9.0.HerramientasDiseño3D.md)
+* [Diseñando con Tinkercad](./9.2.0.Tinkercad.md)
+
     
 
 ## [Recursos](./Recursos.md)

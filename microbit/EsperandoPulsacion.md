@@ -23,7 +23,7 @@ En este sencillo [programa](https://makecode.microbit.org/_C6g53V7EvhRC) vamos a
 
 ![](./images/ProgramaEsperaTecla.png)
 
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_C6g53V7EvhRC" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+
 
 [![Vídeo: Deteniendo la ejecución de un programa hasta que pulsemos un botón con micro:bit](https://img.youtube.com/vi/tCFltkD2VBg/0.jpg)](https://youtu.be/tCFltkD2VBg)
 

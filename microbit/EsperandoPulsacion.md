@@ -1,5 +1,8 @@
 # Deteniendo nuestro programas hasta que se pulse un botón
 
+Una de las preguntas más habituales que hacen los alumnos cuando ya se manejan con Scratch o con los bloques de micro:bit es cómo hacer que mi programa se detenga hasta que se pulse un botón o una tecla.
+
+Estamos acostumbrados a trabajar en estos entornos con eventos y se nos olvida que también podemos usar otras formas de detectar pulsaciones.
 
 Hay 2 formas de detectar las pulsaciones (de los botones o de los pines):
 

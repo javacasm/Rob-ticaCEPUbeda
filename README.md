@@ -1,15 +1,15 @@
 # Introducción a la programación, robótica y 3D
 
 ## CEP Úbeda
-## Enero 20222
+## Octubre 20222
 
 ## José Antonio Vacas @javacasm 
 
 ![Licencia CC](./images/Licencia_CC_peque.png)
 
-## [https://github.com/javacasm/RoboticaSTEAMUbeda](https://github.com/javacasm/RoboticaSTEAMUbeda)
+## [https://bit.ly/STEAMUbeda](https://github.com/javacasm/RoboticaSTEAMUbeda)
 
-Curso Semipresencial: 3 sesiones online de 3h + 3 Sesiones presenciales + trabajo personal
+Curso Semipresencial:  6 Sesiones presenciales + trabajo personal
 
 ## Objetivos
 
@@ -52,7 +52,7 @@ El curso cuenta con una parte no presencial que se justificará mediante el dis
 
 ## Duración
 
-7 sesiones semipresenciales de 3 horas: 25 horas
+6 sesiones presenciales de 3 horas + 4 horas de trabajo presencial =  25 horas
 
 * 2 sesiones Programación
 * 3 sesiones robótica
@@ -62,13 +62,13 @@ El curso cuenta con una parte no presencial que se justificará mediante el dis
 
 Fecha	|Horario
 ---|---
-13/1/2022|17:00-20:00
-20/1/2022|17:00-20:00
-27/1/2022|17:00-20:00
-03/2/2022|17:00-20:00
-10/2/2022|17:00-20:00
-17/2/2021|17:00-20:00
-24/2/2021|17:00-20:00
+04/10/2022|17:00-20:00
+11/10/2022|17:00-20:00
+18/10/2022|17:00-20:00
+25/10/2022|17:00-20:00
+03/11/2022|17:00-20:00
+08/11/2022|17:00-20:00
+22/11/2022|17:00-20:00
 
 
 ## Herramientas
